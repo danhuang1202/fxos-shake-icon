@@ -1,0 +1,19 @@
+{
+  "name": "Shake Icon",
+  "description": "Shake the deletable icon",
+  "developer": {
+    "name": "Dan Huang"
+  },
+  "package_path": "application.zip",
+  "role": "addon",
+  "type": "certified",
+  "customizations": [{
+    "filter": "verticalhome.gaiamobile.org",
+    "scripts": [
+      "main.js"
+    ]
+  }],
+  "icons": {
+    "128": "/icons/128.png"
+  }
+}
